@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#FF4141</color>
+
+    <!-- colors for button -->
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <!-- colors for tab and screen text -->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_desc_color">#656565</color>
+
+    <!-- color for view, border -->
+    <color name="lightgray">#ededed</color>
+    <color name="graybg">#f2f2f2</color>
+    <color name="lightestgray">#f2f3f6</color>
+    <color name="hi_bg">#d2dfff</color>
+</resources>
